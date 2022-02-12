@@ -5,7 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Simple\\Firstpackage\\": "src/"
+            "App\\": "app/",
+            "Simple\\Firstpackage\\": "packages/simple/firstpackage/src/"
         }
     },
     "authors": [
