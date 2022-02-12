@@ -1,0 +1,19 @@
+{
+    "name": "simple/firstpackage",
+    "description": "this is a simple package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simple\\Firstpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pawan kumar",
+            "email": "pawanyd2015@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
